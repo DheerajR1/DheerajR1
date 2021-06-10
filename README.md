@@ -26,15 +26,23 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## :trophy: My Github Stats:
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=DheerajR1&count_private=true&show_icons=true&theme=solarized-dark">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=DheerajR1&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=DheerajR1&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=DheerajR1&hide=php&theme=solarized-dark" />
+## My Wakatime Stats ⌚:(this week)
+<div align="center">
+<a href ="https://github-readme-stats.vercel.app/api/wakatime?username=@DheerajR1&compact=True">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DheerajR1&compact=True"/>
 </a>
 </div>
+
+## :trophy: My Github Stats:
+<div align="center">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=DheerajR1&count_private=true&show_icons=true&theme=solarized-dark">
+  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=DheerajR1&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=DheerajR1&hide=php&theme=tokyonight">
+  <img align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=DheerajR1&hide=php&theme=solarized-dark" />
+</a>
+</div>
+
 
 
 [website]: https://dheerajr.netlify.app
