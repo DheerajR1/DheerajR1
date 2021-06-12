@@ -27,19 +27,12 @@
 </p>
 
 ## My Wakatime Stats ⌚:(this week)
-<!-- <div align="center">
+<div align="center">
 <a href ="https://github-readme-stats.vercel.app/api/wakatime?username=@DheerajR1&compact=True">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DheerajR1&compact=True"/>
 </a>
-</div> -->
-<!--START_SECTION:waka-->
-```text
-JSON         42 mins         █████████▒░░░░░░░░░░░░░░░   37.64 % 
-JavaScript   36 mins         ████████░░░░░░░░░░░░░░░░░   32.30 % 
-HTML         19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Java         14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-```
-<!--END_SECTION:waka-->
+</div>
+
 
 ## :trophy: My Github Stats:
 <div align="center">
