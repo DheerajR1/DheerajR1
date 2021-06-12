@@ -27,11 +27,13 @@
 </p>
 
 ## My Wakatime Stats ⌚:(this week)
-<div align="center">
+<!-- <div align="center">
 <a href ="https://github-readme-stats.vercel.app/api/wakatime?username=@DheerajR1&compact=True">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DheerajR1&compact=True"/>
 </a>
-</div>
+</div> -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## :trophy: My Github Stats:
 <div align="center">
