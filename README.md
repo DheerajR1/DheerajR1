@@ -28,8 +28,8 @@
 
 ## My Wakatime Stats ⌚:(this week)
 <div align="center">
-<a href ="https://github-readme-stats.vercel.app/api/wakatime?username=@DheerajR1&compact=True">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DheerajR1&compact=True"/>
+<a href ="https://github-readme-stats.vercel.app/api/wakatime?username=DheerajR1&compact=True">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DheerajR1&compact=True"/>
 </a>
 </div>
 
