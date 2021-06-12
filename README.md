@@ -33,6 +33,12 @@
 </a>
 </div> -->
 <!--START_SECTION:waka-->
+```text
+JSON         42 mins         █████████▒░░░░░░░░░░░░░░░   37.64 % 
+JavaScript   36 mins         ████████░░░░░░░░░░░░░░░░░   32.30 % 
+HTML         19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Java         14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+```
 <!--END_SECTION:waka-->
 
 ## :trophy: My Github Stats:
