@@ -42,8 +42,22 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=DheerajR1&hide=php&theme=tokyonight">
   <img align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=DheerajR1&hide=php&theme=solarized-dark" />
 </a>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DheerajR1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DheerajR1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 
+## 🔥 Streak Stats:
 
+<p align="center">
+  <a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DheerajR1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DheerajR1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 [website]: https://dheerajr.netlify.app
