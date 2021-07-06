@@ -1,7 +1,7 @@
  ## Hello there 👋, I’m [Dheeraj][website]
 ![](https://visitor-badge.laobi.icu/badge?page_id=DheerajR1.DheerajR1) [![Github](https://img.shields.io/github/followers/DheerajR1?label=Followers&logo=Github)](https://github.com/DheerajR1)
-- 👀 I’m interested in Back-End and a little bit on Front-End development.
-- 🌱 I’m currently learning Front-End development using JavaScript.(Will keep updating here as I keep growing).
+- 👀 Experienced in Back-End and a little bit on Front-End development.
+- 🌱 I’m currently learning Front-End development using React and Angular.(Will keep updating here as I keep growing).
 - 💞️ I’m looking to collaborate on Front-End projects, i do have Expereince in developement using Java Swings, NodeJS, JSP and core JAVA.
 
 ## :email: Find me on:
