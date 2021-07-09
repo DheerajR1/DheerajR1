@@ -1,4 +1,4 @@
- ## Hello there 👋, I’m [Dheeraj]
+ ## Hello there 👋, I’m Dheeraj
 ![](https://visitor-badge.laobi.icu/badge?page_id=DheerajR1.DheerajR1) [![Github](https://img.shields.io/github/followers/DheerajR1?label=Followers&logo=Github)](https://github.com/DheerajR1)
 - 👀 Experienced in Back-End and a little bit on Front-End development.
 - 🌱 I’m currently learning Front-End development using React and Angular.(Will keep updating here as I keep growing).
