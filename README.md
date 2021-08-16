@@ -36,11 +36,11 @@
 
 ## :trophy: My Github Stats:
 <div align="center">
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=DheerajR1&count_private=true&show_icons=true&theme=solarized-dark">
-  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=DheerajR1&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=DheerajR1&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=DheerajR1&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=DheerajR1&hide=php&theme=tokyonight&layout=compact">
-  <img align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=DheerajR1&hide=php&theme=solarized-dark&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajR1&hide=php&theme=tokyonight&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajR1&hide=php&theme=solarized-dark&layout=compact" />
 </a>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
